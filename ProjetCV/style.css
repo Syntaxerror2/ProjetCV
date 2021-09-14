@@ -1,0 +1,21 @@
+.expérience {
+    color:burlywood;
+    text-align: right;
+}
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+@font-face {
+    font-family: 'masuperpolice';
+    src: url(SourceSansPro-Black.otf);
+}
+p {
+    font-family: 'masuperpolice';
+}
+
+h1 {
+    border: 3px red outset;
+    box-shadow: 3px 3px 2px red;
+}
